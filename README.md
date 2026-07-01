@@ -1,3 +1,5 @@
+Developed with 🧠 by **[Shoaib Alam](https://alamshoaib134.github.io/)** (AI Engineer at JPMC | NLP Researcher @ IIT Gandhinagar | Hybrid RAG Pioneer)
+---
 # Nike Product Search Application
 
 A Python-based web application that provides seamless product search functionality for Nike products using Excel data and image management. Built with Gradio for the user interface and integrated with Google Images Search API for product visualization.
